@@ -1,6 +1,6 @@
-# simple-array-sum_
+# _simple-array-sum_
 
-#### _array programming challenge, 11.27.2018_
+#### _array programming challenge, 11.29.2018_
 
 #### By _**planeswalker1**_
 
@@ -25,6 +25,7 @@ This function has the following parameter(s):
 <strong>Input Format</strong>
 
 The first line contains an integer, <em>n</em>, denoting the size of the array.
+
 The second line contains <em>n</em> space-separated integers representing the array's elements.
 
 <strong>Constraints</strong>
